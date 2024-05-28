@@ -3,7 +3,7 @@ import re
 import openai
 from pymongo import MongoClient
 
-openai.api_key = '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'
+openai.api_key = 'YOUR API KEY'
 
 app = Flask(__name__)
 
